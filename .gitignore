@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# Power BI Temporary Files
+*.pbix.autosave
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Python Environment
+.python-version
