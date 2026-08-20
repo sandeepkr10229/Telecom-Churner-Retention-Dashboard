@@ -1,38 +1,4 @@
-/*
-============================================================
-PROJECT : NovaTel Customer Retention & Revenue Intelligence
-FILE    : 01_Data_Validation.sql
-PURPOSE : Validate data quality, completeness, uniqueness,
-          and integrity after importing the dataset into
-          PostgreSQL.
 
-DATASET : telecom_customer_churn.csv
-
-DATABASE: novatel_db
-TABLE   : customer_churn
-
-AUTHOR  : Shivam Mahawar
-DATE    : June 2026
-============================================================
-
-VALIDATION CHECKS
-
-1. Total Record Count
-2. Unique Customer Verification
-3. Duplicate Record Check
-4. Customer Status Distribution
-5. Missing Value Validation
-6. Contract Distribution
-7. Internet Service Distribution
-8. Offer Distribution
-9. Revenue Validation
-10. Data Integrity Verification
-
-============================================================
-*/
-
-
--- Total Record Count
 
 SELECT
     COUNT(*) AS total_records
