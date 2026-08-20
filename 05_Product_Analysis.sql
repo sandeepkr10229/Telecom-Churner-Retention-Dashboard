@@ -1,19 +1,4 @@
-/*
-============================================================
-PROJECT : NovaTel Customer Retention & Revenue Intelligence
-FILE    : 05_Product_Analysis.sql
-PURPOSE : Analyze service adoption, product usage,
-          and product-related churn drivers.
 
-DATABASE: novatel_db
-TABLE   : customer_churn
-
-AUTHOR  : Shivam Mahawar
-============================================================
-*/
-
-
--- Internet Type Churn Analysis
 
 SELECT
     "Internet Type",
