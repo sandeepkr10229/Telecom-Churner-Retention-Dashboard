@@ -456,11 +456,8 @@ This project demonstrates the complete analytics lifecycle:
 
 # 👨‍💻 Author
 
-## Shivam Mahawar
+## Sandeep Kumar
 
-🔗 GitHub: https://github.com/shivammahawar123
-
----
 
 <p align="center">
 <b>📊 Transforming Customer Data into Retention Intelligence</b>
