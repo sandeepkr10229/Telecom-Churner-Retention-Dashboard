@@ -1,18 +1,3 @@
-/*
-============================================================
-PROJECT : NovaTel Customer Retention & Revenue Intelligence
-FILE    : 04_Loyalty_Analysis.sql
-PURPOSE : Analyze customer loyalty, retention behavior,
-          tenure patterns, referral impact, and customer value.
-
-DATABASE: novatel_db
-TABLE   : customer_churn
-
-AUTHOR  : Shivam Mahawar
-============================================================
-*/
-
--- Average Tenure by Customer Status
 
 SELECT
     "Customer Status",
