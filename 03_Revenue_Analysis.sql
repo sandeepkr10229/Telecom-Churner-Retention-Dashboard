@@ -1,18 +1,3 @@
-/*
-============================================================
-PROJECT : NovaTel Customer Retention & Revenue Intelligence
-FILE    : 03_Revenue_Analysis.sql
-PURPOSE : Analyze revenue performance, revenue risk,
-          customer value, and revenue contribution.
-
-DATABASE: novatel_db
-TABLE   : customer_churn
-
-AUTHOR  : Shivam Mahawar
-============================================================
-*/
-
--- Revenue Contribution by Customer Status
 
 SELECT
     "Customer Status",
