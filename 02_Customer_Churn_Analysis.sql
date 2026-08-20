@@ -1,18 +1,3 @@
-/*
-============================================================
-PROJECT : NovaTel Customer Retention & Revenue Intelligence
-FILE    : 02_Customer_Churn_Analysis.sql
-PURPOSE : Identify key churn drivers, customer segments,
-          and retention risk factors.
-
-DATABASE: novatel_db
-TABLE   : customer_churn
-
-AUTHOR  : Shivam Mahawar
-============================================================
-*/
-
--- Customer Status Distribution
 
 SELECT
     "Customer Status",
